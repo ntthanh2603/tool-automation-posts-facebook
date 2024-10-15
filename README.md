@@ -24,7 +24,7 @@ python main.py
 ```
 #### Nếu trong quá trình chạy có lỗi gì hoặc bạn muốn đóng góp gì để repo này được hoàn chỉnh hơn thì đừng ngần ngại liên lạc với tôi nhé:
 ##### Email: tuanthanh2kk4@gmail.com
-##### Facebook: https://www.facebook.com/ntthanh2603\
+##### Facebook: https://www.facebook.com/ntthanh2603
 #### Tôi xin chân thành cảm ơn bạn đã đọc repo này của tôi.
 
 
