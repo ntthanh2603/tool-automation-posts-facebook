@@ -1,45 +1,44 @@
-# 🚀 Tool Tự Động Đăng Bài Facebook
+# 🚀 Facebook Auto-Posting Tool
 
-## 📝 Giới thiệu
+## 📝 Introduction
 
-**Tool tự động đăng bài Facebook** cho phép bạn sử dụng nhiều tài khoản Facebook khác nhau để đăng bài lên các nhóm một cách tự động.
+**Facebook Auto-Posting Tool** allows you to use multiple Facebook accounts to automatically post content to various groups.
 
-👨‍💻 **Tác giả**: Nguyễn Tuấn Thành  
-🏫 **Trường**: Đại học Công nghệ - Đại học Quốc gia Hà Nội  
+👨‍💻 **Author**: Nguyen Tuan Thanh  
+🏫 **University**: University of Engineering and Technology - Vietnam National University, Hanoi  
 
-## 📦 Công nghệ sử dụng
+## 📦 Technologies Used
 
-- 🖥️ **Selenium**: Tự động thao tác trên Chrome Driver.
-- 📊 **Numpy, Pandas**: Đọc và xử lý dữ liệu.
-- 🖱️ **PyAutoGUI**: Chọn ảnh tự động từ thư viện để đăng bài.
+- 🖥️ **Selenium**: Automates operations on Chrome Driver.
+- 📊 **Numpy, Pandas**: Data reading and processing.
+- 🖱️ **PyAutoGUI**: Automatically selects images from library for posting.
 
-## 🔧 Hướng dẫn sử dụng
+## 🔧 Usage Guide
 
-### 1️⃣ Clone dự án
+### 1️⃣ Clone the project
 ```bash
 git clone https://github.com/ntthanh2603/tool-automation-posts-facebook.git
 ```
 
-### 2️⃣ Cài đặt thư viện
+### 2️⃣ Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3️⃣ Cấu hình
-- Tùy chỉnh đường dẫn, hình ảnh và nội dung bài đăng.
-- Tạo file `accounts.csv` trong thư mục `/data` theo nhu cầu.
+### 3️⃣ Configuration
+- Customize paths, images, and post content.
+- Create `accounts.csv` file in `/data` folder as needed.
 
-### 4️⃣ Chạy dự án
+### 4️⃣ Run the project
 ```bash
 python main.py
 ```
 
-## 🛠️ Đóng góp & Hỗ trợ
+## 🛠️ Contribution & Support
 
-Nếu bạn gặp lỗi hoặc muốn đóng góp để cải thiện dự án, hãy liên hệ với tôi qua:
+If you encounter any bugs or want to contribute to improve the project, please contact me via:
 
 📧 **Email**: [tuanthanh2kk4@gmail.com](mailto:tuanthanh2kk4@gmail.com)  
 🌍 **Facebook**: [ntthanh2603](https://www.facebook.com/ntthanh2603)  
 
-💖 **Cảm ơn bạn đã quan tâm đến dự án này!**
-
+💖 **Thank you for your interest in this project!**
